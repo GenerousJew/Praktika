@@ -1,0 +1,118 @@
+C:\Users\user\Desktop\Проекты\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Проекты\ToDoList\obj\Debug\ToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Проекты\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+C:\Users\user\Desktop\Проекты\ToDoList\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Проекты\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+C:\Users\user\Desktop\Проекты\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\user\Desktop\Проекты\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\user\Desktop\Проекты\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\user\Desktop\Проекты\ToDoList\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Проекты\ToDoList\obj\Debug\App.baml
+C:\Users\user\Desktop\Проекты\ToDoList\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Проекты\ToDoList\obj\Debug\ToDoList.g.resources
+C:\Users\user\Desktop\Проекты\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\user\Desktop\Проекты\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Проекты\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Проекты\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\user\Desktop\Проекты\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\obj\Debug\App.baml
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.g.resources
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\user\Desktop\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\MainWindow.g.cs
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\App.g.cs
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\App.baml
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\MainWindow.baml
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.g.resources
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\AddnewTaskWindow.g.cs
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\AddnewTaskWindow.baml
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\ReViewWindows.g.cs
+C:\Users\IS\Desktop\Яланский\Готовые работы по WPF\ToDoList\obj\Debug\ReViewWindows.baml
+I:\Готовые работы по WPF\ToDoList\bin\Debug\ToDoList.exe.config
+I:\Готовые работы по WPF\ToDoList\bin\Debug\ToDoList.exe
+I:\Готовые работы по WPF\ToDoList\bin\Debug\ToDoList.pdb
+I:\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+I:\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.csproj.SuggestedBindingRedirects.cache
+I:\Готовые работы по WPF\ToDoList\obj\Debug\AddnewTaskWindow.g.cs
+I:\Готовые работы по WPF\ToDoList\obj\Debug\MainWindow.g.cs
+I:\Готовые работы по WPF\ToDoList\obj\Debug\ReViewWindows.g.cs
+I:\Готовые работы по WPF\ToDoList\obj\Debug\App.g.cs
+I:\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+I:\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+I:\Готовые работы по WPF\ToDoList\obj\Debug\App.baml
+I:\Готовые работы по WPF\ToDoList\obj\Debug\AddnewTaskWindow.baml
+I:\Готовые работы по WPF\ToDoList\obj\Debug\MainWindow.baml
+I:\Готовые работы по WPF\ToDoList\obj\Debug\ReViewWindows.baml
+I:\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.g.resources
+I:\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+I:\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+I:\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+I:\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.exe
+I:\Готовые работы по WPF\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\user\Desktop\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\user\Desktop\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\user\Desktop\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\user\Desktop\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ToDoList\obj\Debug\ToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\ToDoList\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\ToDoList\obj\Debug\App.g.cs
+C:\Users\user\Desktop\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+C:\Users\user\Desktop\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+C:\Users\user\Desktop\ToDoList\obj\Debug\App.baml
+C:\Users\user\Desktop\ToDoList\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\ToDoList\obj\Debug\ToDoList.g.resources
+C:\Users\user\Desktop\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\user\Desktop\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\user\Desktop\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\user\Desktop\ToDoList\obj\Debug\Page\AddnewTaskWindow.g.cs
+C:\Users\user\Desktop\ToDoList\obj\Debug\Page\ReViewWindows.g.cs
+C:\Users\user\Desktop\ToDoList\obj\Debug\Page\AddnewTaskWindow.baml
+C:\Users\user\Desktop\ToDoList\obj\Debug\Page\ReViewWindows.baml
+C:\Users\danii\Desktop\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\danii\Desktop\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\danii\Desktop\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\danii\Desktop\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\ToDoList\obj\Debug\ToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\Desktop\ToDoList\obj\Debug\Page\AddnewTaskWindow.g.cs
+C:\Users\danii\Desktop\ToDoList\obj\Debug\MainWindow.g.cs
+C:\Users\danii\Desktop\ToDoList\obj\Debug\Page\ReViewWindows.g.cs
+C:\Users\danii\Desktop\ToDoList\obj\Debug\App.g.cs
+C:\Users\danii\Desktop\ToDoList\obj\Debug\ToDoList_MarkupCompile.cache
+C:\Users\danii\Desktop\ToDoList\obj\Debug\ToDoList_MarkupCompile.lref
+C:\Users\danii\Desktop\ToDoList\obj\Debug\App.baml
+C:\Users\danii\Desktop\ToDoList\obj\Debug\Page\AddnewTaskWindow.baml
+C:\Users\danii\Desktop\ToDoList\obj\Debug\MainWindow.baml
+C:\Users\danii\Desktop\ToDoList\obj\Debug\Page\ReViewWindows.baml
+C:\Users\danii\Desktop\ToDoList\obj\Debug\ToDoList.g.resources
+C:\Users\danii\Desktop\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\danii\Desktop\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\danii\Desktop\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\danii\Desktop\ToDoList\obj\Debug\ToDoList.pdb
